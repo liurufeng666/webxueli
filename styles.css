@@ -116,7 +116,7 @@ a{
 	font:14.78px;
 	color:#050505;
 }
-.box3 li:hover{
+.box3 li+li:hover{
 	border-bottom:7px solid #3aa747;
 }
 .banner{
